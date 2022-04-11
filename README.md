@@ -8,15 +8,16 @@ seok3765@naver.com
 
 
 SNS
+
 <a href="https://www.instagram.com/min_seok.null/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/"/></a>
 
 # 주 언어
 아직 정하질 못 했어요!
 
 # 사용 해본 언어
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Note-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
 # 활동
