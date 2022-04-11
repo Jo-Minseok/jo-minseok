@@ -3,9 +3,10 @@
 📧E-mail
 seok3765@naver.com
 
+# 자기소개
+현재 부산에 있는 대학교에 재학중이며 훌륭한 개발자로 성장할 수 있도록 노력중입니다!
+
 SNS
- <a href="https://www.instagram.com/min_seok.null/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=Instagram
-&logoColor=white"/></a>
 # 주 언어
 
 # 사용 해본 언어
