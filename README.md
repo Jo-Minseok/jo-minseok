@@ -11,7 +11,7 @@ seok3765@naver.com
 SNS
 
 <a href="https://www.instagram.com/min_seok.null/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005117647209"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<a href="https://www.facebook.com/profile.php?id=100005117647209"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209"/></a>
 
 # 주 언어
 아직 정하질 못 했어요!
