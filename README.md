@@ -21,7 +21,7 @@ SNS
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Note-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
 
 # 활동
 ![Jo-Minseok's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Minseok&show_icons=true)
