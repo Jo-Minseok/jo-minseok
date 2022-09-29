@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=gradient&height=300&section=header&text=J_Coder&fontSize=90&animation=fadeIn&desc=Backend&descAlign=90)
 
 
-현재 부산에 있는 대학교에 재학중이며 훌륭한 개발자로 성장할 수 있도록 노력중입니다!
+현재 부산에 있는 대학교에 재학중이며 훌륭한 개발자로 성장할 수 있도록 노력중입니다!<
 동의대학교 컴퓨터 공학과 19학번
 
 📧E-mail
