@@ -12,12 +12,12 @@ seok3765@naver.com
 [![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)](https://www.facebook.com/profile.php?id=100005117647209)
 
 
-# 백준 티어
+# Solved.ac (백준 티어)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
 
 # Skills
-### 주 언어
-아직 정하질 못 했어요!
+### Main Skill
+NULL
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -34,5 +34,5 @@ seok3765@naver.com
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-# 활동
+# Github Activity
 ![Jo-Minseok's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Minseok&show_icons=true)
