@@ -1,17 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=gradient&height=300&section=header&text=J_Coder&fontSize=90&animation=fadeIn&desc=Backend&descAlign=90)
 
-###소개
+#소개
 현재 부산에 있는 대학교에 재학중이며 훌륭한 개발자로 성장할 수 있도록 노력중입니다!
  동의대학교 컴퓨터 공학과 19학번
-
 ###📧E-mail
 seok3765@naver.com
-
-
 ###SNS
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)](https://www.instagram.com/min_seok.null/)
 [![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)](https://www.facebook.com/profile.php?id=100005117647209)
-
 
 #백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
