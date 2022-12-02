@@ -10,20 +10,29 @@ seok3765@naver.com
 
 SNS
 
-<a href="https://www.instagram.com/min_seok.null/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005117647209"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209"/></a>
+![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)(https://www.instagram.com/min_seok.null/)
+![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)(https://www.facebook.com/profile.php?id=100005117647209)
+
+#백준 티어
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
 
 # 주 언어
 아직 정하질 못 했어요!
 
-# 사용 해본 언어
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter Note-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"></a>
+# Skills
+### Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Jupyter Note](https://img.shields.io/badge/Jupyter Note-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+### Tools
+![JAVA Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # 활동
 ![Jo-Minseok's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Minseok&show_icons=true)
