@@ -1,23 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=gradient&height=300&section=header&text=J_Coder&fontSize=90&animation=fadeIn&desc=Backend&descAlign=90)
 
-#소개
+
+# 소개
 현재 부산에 있는 대학교에 재학중이며 훌륭한 개발자로 성장할 수 있도록 노력중입니다!
  동의대학교 컴퓨터 공학과 19학번
-###📧E-mail
+### 📧E-mail
 seok3765@naver.com
-###SNS
+
+### SNS
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)](https://www.instagram.com/min_seok.null/)
 [![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)](https://www.facebook.com/profile.php?id=100005117647209)
 
-#백준 티어
+
+# 백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
+
 
 # 주 언어
 아직 정하질 못 했어요!
 
+
 # Skills
 ### Languages
-
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
@@ -31,5 +35,7 @@ seok3765@naver.com
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+
 # 활동
 ![Jo-Minseok's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Minseok&show_icons=true)
