@@ -11,8 +11,8 @@ seok3765@naver.com
 
 SNS
 
-![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)(https://www.instagram.com/min_seok.null/)
-![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)(https://www.facebook.com/profile.php?id=100005117647209)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)](https://www.instagram.com/min_seok.null/)
+[![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)](https://www.facebook.com/profile.php?id=100005117647209)
 
 #백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
@@ -27,7 +27,7 @@ SNS
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Jupyter Note](https://img.shields.io/badge/Jupyter Note-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Jupyter Note](https://img.shields.io/badge/Jupyter%20Note-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
