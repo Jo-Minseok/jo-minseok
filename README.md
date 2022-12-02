@@ -15,12 +15,9 @@ seok3765@naver.com
 # 백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
 
-
-# 주 언어
-아직 정하질 못 했어요!
-
-
 # Skills
+### 주 언어
+아직 정하질 못 했어요!
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
