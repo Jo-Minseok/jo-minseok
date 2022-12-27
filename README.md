@@ -20,7 +20,7 @@ seok3765@naver.com
 NULL
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![CUDAC](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=for-the-badge&logo=CUDA C&logoColor=white)
+![CUDAC](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=for-the-badge&logo=CUDA%20C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
