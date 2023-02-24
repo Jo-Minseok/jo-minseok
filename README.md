@@ -17,7 +17,7 @@ seok3765@naver.com
 
 # Skills
 ### Main Skill
-NULL
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![CUDAC](https://img.shields.io/badge/CUDA%20C-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
