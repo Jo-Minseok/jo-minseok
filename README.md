@@ -32,7 +32,7 @@ seok3765@naver.com
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Jupyter Note](https://img.shields.io/badge/Jupyter%20Note-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
