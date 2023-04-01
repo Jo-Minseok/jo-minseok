@@ -23,7 +23,7 @@ seok3765@naver.com
 ### Main Skill
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-2F2625.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 ### Languages
 
