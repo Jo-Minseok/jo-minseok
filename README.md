@@ -35,6 +35,7 @@ seok3765@naver.com
 
 ## DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![ORACLEDB](https://img.shields.io/badge/ORACLE DB-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
