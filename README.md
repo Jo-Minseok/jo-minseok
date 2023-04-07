@@ -26,7 +26,6 @@ seok3765@naver.com
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ### 학습중
-![Java](https://img.shields.io/badge/JAVA-2F2625.svg?&style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![CUDAC](https://img.shields.io/badge/CUDA%20C-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Jupyter Note](https://img.shields.io/badge/Jupyter%20Note-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
