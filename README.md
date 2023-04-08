@@ -13,6 +13,7 @@ seok3765@naver.com
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)](https://www.instagram.com/min_seok.null/)
 [![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)](https://www.facebook.com/profile.php?id=100005117647209)
+[![VELOG](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://www.https://velog.io/@seok3765)](https://www.https://velog.io/@seok3765)
 
 # Solved.ac (백준 티어)
 
