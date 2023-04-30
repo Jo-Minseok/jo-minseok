@@ -55,6 +55,7 @@ seok3765@naver.com
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![QTDesigner](https://img.shields.io/badge/QT%20Designer-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)
 
 # Github Activity
 
