@@ -15,6 +15,27 @@ seok3765@naver.com
 [![FACEBOOK](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005117647209)](https://www.facebook.com/profile.php?id=100005117647209)
 [![VELOG](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@seok3765)](https://velog.io/@seok3765)
 
+# 수상 및 자격증
+
+|자격증|
+|자격증명|발행처|취득월|
+|-----|---|---|
+|컴퓨터활용능력 2급|대한상공회의소|2021.12|
+|1종보통운전면허|경찰청(운전면허시험관리단)|2019.11|
+|수상|
+|수상명|수여기관|수상연도|
+|-----|---|---|
+|성적 우등상(4.5)|동의대학교 총장|2023|
+|신용협동조합 장학증서|부산동부신용협동조합이사장|2023|
+|신용협동조합 장학증서|부산동부신용협동조합이사장|2020|
+
+# 경력
+
+| 경력   |
+| ------ | ---- | -------- | ---- |
+| 회사명 | 직급 | 담당직무 | 기간 |
+| X      |
+
 # Solved.ac (백준 티어)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
@@ -40,23 +61,10 @@ seok3765@naver.com
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 
-## DB
+### DB
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![ORACLEDB](https://img.shields.io/badge/ORACLE%20DB-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
-## Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![JAVA Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
-![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![QTDesigner](https://img.shields.io/badge/QT%20Designer-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)
 
 # Github Activity
 
