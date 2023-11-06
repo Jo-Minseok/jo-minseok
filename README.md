@@ -34,7 +34,7 @@ seok3765@naver.com
 | ------ | ---- | -------- | ---- |
 | X      |      |          |      |
 
-# Solved.ac (백준 티어)
+# Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765)](https://solved.ac/seok3765/)
 
@@ -63,7 +63,3 @@ seok3765@naver.com
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![ORACLEDB](https://img.shields.io/badge/ORACLE%20DB-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
-# Github Activity
-
-![Jo-Minseok's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Minseok&show_icons=true)
