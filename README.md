@@ -11,6 +11,7 @@
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/min_seok.null/)](https://www.instagram.com/minseok.null/)
 [![VELOG](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@seok3765)](https://velog.io/@seok3765)
+<a href="https://www.linkedin.com/in/jcoder0424/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # 수상 및 자격증
 
