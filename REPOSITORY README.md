@@ -40,6 +40,7 @@
         <td>조민석</td>
         <td><a href="https://github.com/Jo-Minseok">@Jo-Minseok</a></td>
         <td></td>
+    </tr>
 </table>
 
 ## PROJECT INFORMATION
