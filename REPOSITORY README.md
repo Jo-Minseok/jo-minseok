@@ -12,7 +12,7 @@
   - [Intro](#Intro)
   - [Composition](#Composition)
 - [PROJECT INFORMATION](#PROJECT-INFORMATION)
-  - [MEAN](#MEAN)
+  - [Mean](#Mean)
   - [Goal](#Goal)
   - [Explain](#Explain)
 - [STACKS](#STACKS)
@@ -47,7 +47,7 @@
 > [팀 소속] </br>
 > PERIOD: </br>
 
-### MEAN
+### Mean
 
 📃 [의미]
 
