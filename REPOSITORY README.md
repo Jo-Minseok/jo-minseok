@@ -79,13 +79,13 @@
 ### Function
 
 <details>
-    <summary><h3>💡[Function]</h3></summary>
+    <summary><strong>💡[Function]</strong></summary>
     <ul>
         <li>Description</li>
     </ul>
 </details>
 <details>
-    <summary><h3>💡[Function 2]</h3></summary>
+    <summary><strong>💡[Function 2]</strong></summary>
     <ul>
         <li>Description</li>
     </ul>
