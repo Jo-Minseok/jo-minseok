@@ -62,9 +62,9 @@
 
 ## STACKS
 
-### Collaboration Tool
+### Collaboration
 
-### Development Tool
+### Development
 
 ### Language
 
