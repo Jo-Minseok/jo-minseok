@@ -18,7 +18,10 @@
 - [STACKS](#STACKS)
   - [Collaboration](#collaboration)
   - [Development](#Development)
+  - [Database](#Database)
+  - [API](#API)
   - [Language](#Language)
+  - [Framework](#Framework)
   - [Distribution](#distribution)
   - [Function](#Function)
 - [SOURCE](#source)
@@ -68,7 +71,13 @@
 
 ### Development
 
+### Database
+
+### API
+
 ### Language
+
+### Framework
 
 ### Distribution
 
