@@ -8,7 +8,7 @@
 
 ## CONTENTS
 
-- [Team](#Team)
+- [TEAM](#TEAM)
   - [Intro](#Intro)
   - [Composition](#Composition)
 - [PROJECT INFORMATION](#PROJECT-INFORMATION)
