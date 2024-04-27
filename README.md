@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=BackEnd&fontSize=90&theme=tokyonight" /><br>
   <h3>🌈 Stack</h3>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=cplusplus&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Java-2F2625?style=square&logo=buymeacoffee&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=square&logo=oracle&logoColor=white"> <br>
   <h4>Sub Stack</h4>
-  <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Fastapi-009688?style=square&logo=fastapi&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Jetpack%20compose-4285F4?style=square&logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=square&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Maria%20DB-003545?style=square&logo=mariadb&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=square&logo=jetpackcompose&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=square&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=cplusplus&logoColor=white"> <br>
   <br>
   <h3>🏆 Award</h3>
   <table>
