@@ -38,15 +38,13 @@
     <a href="https://solved.ac/profile/seok3765"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765"></a><br>
   <br>
   <h3>📜 History</h3>
-    <ul>
-      <li> 동의대학교 821호 임베디드 시스템 및 인공지능 연구실 (2022.02 ~ 2025.02) </li>
-      <li> 동의대학교 전공 튜터링 튜터 [C, C++, DB] (2023.03 ~ 2024.06) </li>
-      <li> 동의대학교 2024학년도 1학기 캡스톤 디자인 경진대회 본선 진출</li>
-      <li> 2024년 K-HACKTHON 12 본선 진출</li><br>
-      <li> 네이버 커넥트재단 부스트 캠프 웹・모바일 9기 베이직 (2024.06.24 ~ 2024.07.05) </li>
-      <li> 네이버 커넥트재단 부스트 캠프 웹・모바일 9기 챌린지 (2024.07.15 ~ 2024.08.09) </li>
-      <li> 네이버 커넥트재단 부스트 캠프 웹・모바일 9기 멤버십 (2024.07.19 ~ ing) </li>
-    </ul>
+    <p>동의대학교 821호 임베디드 시스템 및 인공지능 연구실 (2022.02 ~ 2025.02)</p>
+    <p>동의대학교 전공 튜터링 튜터 [C, C++, DB] (2023.03 ~ 2024.06)</p>
+    <p>동의대학교 2024학년도 1학기 캡스톤 디자인 경진대회 본선 진출</p>
+    <p>2024년 K-HACKTHON 12 본선 진출</p><br>
+    <p>네이버 커넥트재단 부스트 캠프 웹・모바일 9기 베이직 (2024.06.24 ~ 2024.07.05)</p>
+    <p>  네이버 커넥트재단 부스트 캠프 웹・모바일 9기 챌린지 (2024.07.15 ~ 2024.08.09)</p>
+    <p>  네이버 커넥트재단 부스트 캠프 웹・모바일 9기 멤버십 (2024.07.19 ~ ing)</p>
   <h3>🧑 ETC</h3>
   <a href="https://velog.io/@seok3765/posts"><img width="10%" src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jcoder0424/"><img width="13%" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
