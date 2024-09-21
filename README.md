@@ -44,7 +44,7 @@
     <p>K-HACKTHON 12 본선 진출 (2024. 08)</p><br>
     <p>NAVER Connect Foundation boostcamp 웹・모바일 9기 베이직 (2024.06.24 ~ 2024.07.05)</p>
     <p>  NAVER Connect Foundation boostcamp 웹・모바일 9기 챌린지 (2024.07.15 ~ 2024.08.09)</p>
-    <p>  NAVER Connect Foundation boostcamp 웹・모바일 9기 멤버십 (2024.07.19 ~ ing)</p>
+    <p>  NAVER Connect Foundation boostcamp 웹・모바일 9기 멤버십 (2024.08.19 ~ ing)</p>
   <h3>🧑 ETC</h3>
   <a href="https://velog.io/@seok3765/posts"><img width="10%" src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jcoder0424/"><img width="13%" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
