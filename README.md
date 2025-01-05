@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=BackEnd&fontSize=90&theme=tokyonight" /><br>
-
-  <h3>🌈 Stack</h3>
-  <img src="https://img.shields.io/badge/Node JS-5FA04E?style=square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=square&logo=oracle&logoColor=white"> <br>
-
-  <h4>Sub Stack</h4>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=square&logo=jetpackcompose&logoColor=white">
+  <h3>⭐ Main Stack</h3>
+    <img src="https://img.shields.io/badge/Nest JS-E0234E?style=square&logo=nestjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Express JS-000000?style=square&logo=Express&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeORM-FE0803?style=square&logo=typeorm&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/JPA-6DB33F?style=square&logoColor=white">
+  <h3>⭐ DB</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-FE0803?style=square&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=mariadb&logoColor=white">
+  <h4>ETC</h3>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Maria%20DB-003545?style=square&logo=mariadb&logoColor=white">
-  <br>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=square&logo=sqlalchemy&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=square&logo=jetpackcompose&logoColor=white">
   <img src="https://img.shields.io/badge/Window%20Forms-512BD4?style=square&logo=sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=cplusplus&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=square&logo=arduino&logoColor=white">
   <br>
   <h3>🏆 Award</h3>
   <table>
@@ -38,15 +40,38 @@
     <a href="https://solved.ac/profile/seok3765"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seok3765"></a><br>
   <br>
   <h3>📜 History</h3>
-    <p>DongEui Univ. 821호 임베디드 시스템 및 인공지능 연구실 (2022.02 ~ 2025.02)</p>
-    <p>DongEui Univ. 전공 튜터링 튜터 [C, C++, DB] (2023.03 ~ 2024.06)</p>
-    <p>DongEui Univ. 2024학년도 1학기 및 하계 계절학기 캡스톤 디자인 경진대회 본선 진출 (2024.08)</p>
-    <p>K-HACKTHON 12 본선 진출 (2024. 08)</p><br>
-    <p>NAVER Connect Foundation boostcamp 웹・모바일 9기 베이직 (2024.06.24 ~ 2024.07.05)</p>
-    <p>  NAVER Connect Foundation boostcamp 웹・모바일 9기 챌린지 (2024.07.15 ~ 2024.08.09)</p>
-    <p>  NAVER Connect Foundation boostcamp 웹・모바일 9기 멤버십 (2024.08.19 ~ ing)</p>
+  <table>
+  <th>기관</th>
+  <th>내역</th>
+  <th>기간</th>
+  <tr>
+    <td>DongEui Univ</td>
+    <td>821호 임베디드 시스템 및 인공지능 연구실</td>
+    <td>2022.02 ~ 2025.02</td>
+  </tr>
+  <tr>
+    <td>DongEui Univ</td>
+    <td>전공 튜터링 튜터 [C, C++, DB]</td>
+    <td>2023.03 ~ 2024.06</td>
+  </tr>
+  <tr>
+    <td>NAVER Connect Foundation</td>
+    <td>boostcamp 웹・모바일 9기 베이직</td>
+    <td>2024.06.24 ~ 2024.07.05</td>
+  </tr>
+  <tr>
+    <td>NAVER Connect Foundation</td>
+    <td>boostcamp 웹・모바일 9기 챌린지</td>
+    <td>2024.07.15 ~ 2024.08.09</td>
+  </tr>
+  <tr>
+    <td>NAVER Connect Foundation</td>
+    <td>boostcamp 웹・모바일 9기 멤버십</td>
+    <td>2024.08.19 ~ 2024.12.06<br>2025.01.06 ~ 2025.02.21</td>
+  </tr>
+</table>
   <h3>🧑 ETC</h3>
-  <a href="https://velog.io/@seok3765/posts"><img width="10%" src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jcoder0424/"><img width="13%" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+  <a href="https://velog.io/@seok3765/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jcoder0424/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
   <br>
   <h3>👇 Project</h3>
