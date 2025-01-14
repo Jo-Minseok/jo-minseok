@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-FE0803?style=square&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=square&logo=redis&logoColor=white">
   <h4>ETC</h3>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=square&logo=sqlalchemy&logoColor=white"><br>
