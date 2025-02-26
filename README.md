@@ -13,6 +13,8 @@
   <h3>⭐ Infra</h3>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Docker%20Compose-4285F4?style=square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/NCloud-03C75A?style=square&logo=iCloud&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20actions-2088FF?style=square&logo=githubactions&logoColor=white">
   <h4>ETC</h3>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=square&logo=sqlalchemy&logoColor=white"><br>
